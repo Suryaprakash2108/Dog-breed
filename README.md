@@ -5,6 +5,8 @@ This project classifies dog breeds using deep learning models based on transfer 
 🔬 Built as part of an academic project by Mopada Surya Prakash, UG Scholar at Mohan Babu University, Tirupati, India.
 
 ---
+![image](https://github.com/user-attachments/assets/9999c82a-69bb-4298-a436-18dbc37c9bb1)
+---
 
 ## 🧭 Project Overview
 
