@@ -7,6 +7,8 @@ This project classifies dog breeds using deep learning models based on transfer 
 ---
 ![image](https://github.com/user-attachments/assets/9999c82a-69bb-4298-a436-18dbc37c9bb1)
 ---
+![image](https://github.com/user-attachments/assets/852551c7-2ad9-4c64-8f37-e7f098cb9625)
+---
 
 ## 🧭 Project Overview
 
